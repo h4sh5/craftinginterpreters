@@ -34,6 +34,17 @@ C. Feel free to add your Lox port or implementation to the wiki:
 I am a terribly forgetful, error-prone mammal, so I automated as much as I
 could.
 
+### forked: building stuff
+
+make sure you have make and javac installed, along with a C compiler if you want clox
+
+to build jlox:
+`./java_compile.sh`
+
+to build clox:
+`./c_compile.sh`
+
+
 ### Prerequisites
 
 I develop on an OS X machine, but any POSIX system should work too. With a
